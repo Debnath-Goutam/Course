@@ -10,3 +10,8 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Name: Goutam Debnath
+Module name of my choice from Course 1: Exploratory Data Analysis.
+My takeaways: EDA is a very useful and basic tool for data scientists. it is somewhat a preliminary analysis of the dataset at hand to find out what we can based on the raw data available to us. there various ways to explore the data by cleaning the dataset, finding correlations between different attributes in the data and analysing them further.
+
+
